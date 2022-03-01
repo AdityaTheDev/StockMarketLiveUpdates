@@ -1,0 +1,2 @@
+# StockMarketLiveUpdates
+Off late, I stumbled upon the fee technical stock market terms and I was fascinated to get to know abt it more. And I thought of creating a monitoring system which can fetch live updates of stocks. So I created this sheet by fetching the data from Google finance. This sheet contains Nifty 50, NSE 500 and Midcap 250 stocks. This would be beneficial for the Intraday traders and value investors
